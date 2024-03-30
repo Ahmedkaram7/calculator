@@ -1,6 +1,5 @@
 Calculator by JavaScript
 
 
- linke demo:
- 
+ The demo:
 https://ahmedkaram7.github.io/calculator/
